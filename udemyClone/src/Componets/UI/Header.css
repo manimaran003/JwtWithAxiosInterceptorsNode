@@ -1,0 +1,20 @@
+.dropdown-submenu {
+    position: relative;
+  }
+  
+  .dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+  }
+  .dropdown-submenu,.test{
+    padding-bottom:10px;
+    align-items: center;
+  }
+.sub,.mini-sub{
+    padding-bottom:10px;
+  }
+  .dropdown-menu{
+    background-color: #c3fae8;
+    font-size: 20px;
+  }
